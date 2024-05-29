@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("swordSlash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+224f8392ea4fed7913fc410d72aaa2cb67b9f8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("swordSlash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("swordSlash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
