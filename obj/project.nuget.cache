@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0n8kDU91ETw=",
+  "success": true,
+  "projectFilePath": "/home/snake0x8/CharpProjects/NinjaGame/swordSlash/swordSlash.csproj",
+  "expectedPackageFiles": [
+    "/home/snake0x8/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/snake0x8/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/snake0x8/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/snake0x8/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/snake0x8/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

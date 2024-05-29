@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Attack1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Attack2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/BASIC ATTACK.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Death.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Fall.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/hero.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/IDLE.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Idle/Bringer-of-Death-SpritSheet.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Jump.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/3.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/4.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/5.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/6.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/7.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/8.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/RUN.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/shipAnimation.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Take Hit - white silhouette.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Take Hit.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Walk/WalkEnemy.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

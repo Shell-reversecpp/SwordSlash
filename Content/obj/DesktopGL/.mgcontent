@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/fonts/gameFont.spritefont</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/back1.jpg</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/back2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/button1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/cursor.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/hp_bar.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/hp_barBl.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/hud_bg.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/mp_bar.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/mp_barBl.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/shade.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/solid.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Misc/sunrise.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Attack/attackEnemy.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Attack1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Attack2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/BASIC ATTACK.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/bat.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/blood.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/dash.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Death.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Death/enemyDeath.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/dojo.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/face.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Fall.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Golem/Golem_1_attack.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Golem/Golem_1_die.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Golem/Golem_1_hurt.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Golem/Golem_1_idle.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Golem/Golem_1_walk.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/grass1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/grass2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/hero.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Hit/enemyHit.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/IDLE.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Idle/Bringer-of-Death-SpritSheet.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Idle/enemyIdle.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Jump.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/3.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/4.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/5.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/6.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/7.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Layers/8.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/pla1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/plant2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/RUN.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Salt.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/shipAnimation.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/smoke.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/smoke2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Take Hit - white silhouette.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Take Hit.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Tile1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Tile2.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/tilegr.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/Walk/WalkEnemy1.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/wallLeft.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/wallRight.png</File>
+    <File>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/Sprite/waveCount.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
