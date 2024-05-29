@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/game/fonts/gameFont.spritefont</SourceFile>
+  <SourceTime>2024-03-26T19:17:49.843461+00:00</SourceTime>
+  <DestFile>/home/snake0x8/CharpProjects/NinjaGame/swordSlash/Content/bin/DesktopGL/game/fonts/gameFont.xnb</DestFile>
+  <DestTime>2024-05-12T16:32:01.8150483+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
